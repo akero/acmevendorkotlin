@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/drawable/graystroke.xml" value="0.1675" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/drawable/ic_acmelogo.xml" value="0.2365" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/drawable/main_bg.xml" value="0.2365" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/drawable/primaryround.xml" value="0.2365" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/drawable/primarystroke.xml" value="0.2365" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/drawable/yellowround.xml" value="0.2365" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_add_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_add_site_detail.xml" value="0.33" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_add_vender.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_campaign_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_change_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_client_dash_board.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_clinet_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_update_site_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_vender_dash_board.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_view_site_detail.xml" value="0.25" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/activity_welcome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/custom_campaign_list.xml" value="0.25" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/custom_client_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/custom_emailsent.xml" value="0.365625" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/custom_popup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/CampaignProjects/app/src/main/res/layout/custom_progess.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/TestingProjects/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/TestingProjects/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Jasvinder's Data/TestingProjects/app/src/main/res/layout/activity_splash.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
